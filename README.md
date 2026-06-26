@@ -30,7 +30,7 @@ sudo apt install default-jre
 
 open your cmd
 ```
-git clone https://github.com/7oSkaaa/Tic-Tac-Toe-GUI.git
+git clone https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI.git
 ```
 Or 
 
@@ -46,7 +46,7 @@ after that go to the folder of the repo and Double Click on Tic_Tac_Toe.jar
 open your terminal
 
 ```
-git clone https://github.com/7oSkaaa/Tic-Tac-Toe-GUI.git
+git clone https://github.com/mohamed-alshamy/Tic-Tac-Toe-GUI.git
 ```
 go to the path of the folder
 
@@ -58,6 +58,3 @@ java -jar Tic_Tac_Toe.jar
 ```
 
 
-This is a video of the game:
-
-https://user-images.githubusercontent.com/63050133/148140304-56d006c2-5e21-4078-a44e-ab9bc8c88ebf.mp4
